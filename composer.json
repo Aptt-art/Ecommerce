@@ -1,0 +1,15 @@
+{
+    "name": "alaji/ecommerce",
+    "autoload": {
+        "psr-4": {
+            "Alaji\\Ecommerce\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Aurélien Petit",
+            "email": "aurelien-petit@hotmail.fr"
+        }
+    ],
+    "require": {}
+}
